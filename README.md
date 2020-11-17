@@ -8,3 +8,6 @@ Twitter » [uhKappug](https://twitter.com/uhKappug) |
 
 ### ⭐ Job
 I make Discord Bots for a lot of organizations. In my freetime I like to make a personal bot to my liking.
+
+title: Kappug
+description: Hello! I'm Kappug.
