@@ -10,5 +10,5 @@ Twitter » [uhKappug](https://twitter.com/uhKappug) |
 I make Discord Bots for a lot of organizations. In my freetime I like to make a personal bot to my liking.
 
 ### 💵 Support Me
-Want to support me and don't know how? You can visit my [idle page](https://kappug.cf/idle), and leave it open on youe browser. I earn a slight amount of money via arc.
+Want to support me and don't know how? You can visit my [idle page](https://kappug.cf/idle), and leave it open on your browser. I earn a slight amount of money via arc.
 
