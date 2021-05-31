@@ -1,5 +1,5 @@
 <h1 style="font-family: 'Roboto Mono', monospace;">print("kappug");</h1>
-<h3>Just your ordinary <h3 style="color:#FF9100">web developer.</h3></h3>
+<h3>Just your ordinary web developer.</h3>
 
 <a href="https://kappug.dev/">Website</a>
 
