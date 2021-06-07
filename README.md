@@ -1,7 +1,4 @@
-<h1 style="font-family: 'Roboto Mono', monospace;">\<h1>kappug\<h1></h1>
 <h1 style="font-family: 'Roboto Mono', monospace;">console.log("kappug");</h1>
-<h1 style="font-family: 'Roboto Mono', monospace;">print("kappug")</h1>
-<h1 style="font-family: 'Roboto Mono', monospace;">const kappug = require("kappug");</h1>
 <h3>Just your ordinary developer...</h3>
 
 <a href="https://kappug.dev/">Website</a>
