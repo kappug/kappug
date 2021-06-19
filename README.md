@@ -1,6 +1,8 @@
 <h1 style="font-family: 'Roboto Mono', monospace;">console.log("kappug");</h1>
 <h3>Just your ordinary developer...</h3>
 
+<h3>i code and upload random stuff lol</h3>
+
 <a href="https://kappug.dev/">Website</a>
 
 <a href="https://discord.com/users/715541337549570114/">Discord</a>
