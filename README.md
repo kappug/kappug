@@ -1,14 +1,2 @@
-<h1 style="font-family: 'Roboto Mono', monospace;">console.log("kappug");</h1>
-<h3>Just your ordinary developer...</h3>
-
-<h3>I upload random stuff lol</h3>
-
-<a href="https://kappug.dev/">Website</a>
-
-<a href="https://discord.com/users/715541337549570114/">Discord</a>
-
-<a href="https://twitter.com/anotherkappug/">Twitter</a>
-
-<a href="https://steamcommunity.com/id/kappug/">Steam</a>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/715541337549570114?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/715541337549570114)
