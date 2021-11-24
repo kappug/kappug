@@ -1,4 +1,4 @@
 <div align="center">
   Somebody
-  <a>[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/715541337549570114?borderRadius=20px&bg=#121212)](https://discord.com/users/715541337549570114)</a>
+  <a><img src="https://lanyard-profile-readme.vercel.app/api/715541337549570114?borderRadius=20px&bg=#121212"></a>
 </div>
